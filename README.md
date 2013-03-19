@@ -1,4 +1,4 @@
 DEVAL v0.1
 ----------
 
-Implementation and variationo of caesar cipher in tasm.
+Implementation and variation of caesar cipher in tasm.
